@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/cathode-binder-removal-stage-explainer/
 
+Repository: https://github.com/mizcausevic-dev/cathode-binder-removal-stage-explainer
+
 ## What this is
 
 An interactive anatomy plate for Cathode Binder-Removal Stage. Play, scrub, or jump the five stages. The same frame always draws the same picture.
